@@ -1,8 +1,8 @@
-package com.example.testheroku.repositories;
+package com.example.herokutest2.repositories;
 
 
-import com.example.testheroku.entities.Role;
-import com.example.testheroku.entities.RoleType;
+import com.example.herokutest2.entities.Role;
+import com.example.herokutest2.entities.RoleType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

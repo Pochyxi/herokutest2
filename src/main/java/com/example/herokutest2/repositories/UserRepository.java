@@ -1,7 +1,7 @@
-package com.example.testheroku.repositories;
+package com.example.herokutest2.repositories;
 
 
-import com.example.testheroku.entities.User;
+import com.example.herokutest2.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

@@ -1,7 +1,8 @@
-package com.example.testheroku.responseEntity;
+package com.example.herokutest2.responseEntity;
 
-import com.example.testheroku.entities.Role;
-import com.example.testheroku.entities.User;
+import com.example.herokutest2.entities.Role;
+
+import com.example.herokutest2.entities.User;
 import lombok.*;
 
 import java.util.Set;

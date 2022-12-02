@@ -1,4 +1,4 @@
-package com.example.testheroku.responseEntity;
+package com.example.herokutest2.responseEntity;
 
 import lombok.*;
 

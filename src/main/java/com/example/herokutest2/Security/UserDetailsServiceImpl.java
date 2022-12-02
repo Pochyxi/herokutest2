@@ -1,8 +1,7 @@
-package com.example.testheroku.Security;
+package com.example.herokutest2.Security;
 
-
-import com.example.testheroku.entities.User;
-import com.example.testheroku.repositories.UserRepository;
+import com.example.herokutest2.entities.User;
+import com.example.herokutest2.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

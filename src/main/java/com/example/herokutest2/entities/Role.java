@@ -1,4 +1,4 @@
-package com.example.testheroku.entities;
+package com.example.herokutest2.entities;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

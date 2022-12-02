@@ -1,4 +1,4 @@
-package com.example.testheroku.Security;
+package com.example.herokutest2.Security;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

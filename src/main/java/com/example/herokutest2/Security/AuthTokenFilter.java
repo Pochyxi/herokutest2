@@ -1,4 +1,4 @@
-package com.example.testheroku.Security;
+package com.example.herokutest2.Security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,11 +1,11 @@
-package com.example.testheroku.controllers;
+package com.example.herokutest2.controllers;
 
 
-import com.example.testheroku.Security.JwtUtils;
-import com.example.testheroku.Security.LoginRequest;
-import com.example.testheroku.Security.LoginResponse;
-import com.example.testheroku.Security.UserDetailsImpl;
-import com.example.testheroku.services.UserService;
+import com.example.herokutest2.Security.JwtUtils;
+import com.example.herokutest2.Security.LoginRequest;
+import com.example.herokutest2.Security.LoginResponse;
+import com.example.herokutest2.Security.UserDetailsImpl;
+import com.example.herokutest2.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

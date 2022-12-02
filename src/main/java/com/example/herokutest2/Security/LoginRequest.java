@@ -1,4 +1,4 @@
-package com.example.testheroku.Security;
+package com.example.herokutest2.Security;
 
 import lombok.Getter;
 import lombok.Setter;

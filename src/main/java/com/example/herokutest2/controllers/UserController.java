@@ -1,11 +1,11 @@
-package com.example.testheroku.controllers;
+package com.example.herokutest2.controllers;
 
-import com.example.testheroku.entities.RoleType;
-import com.example.testheroku.entities.User;
-import com.example.testheroku.responseEntity.UserRequest;
-import com.example.testheroku.responseEntity.UserResponse;
-import com.example.testheroku.services.RoleService;
-import com.example.testheroku.services.UserService;
+import com.example.herokutest2.entities.RoleType;
+import com.example.herokutest2.entities.User;
+import com.example.herokutest2.responseEntity.UserRequest;
+import com.example.herokutest2.responseEntity.UserResponse;
+import com.example.herokutest2.services.RoleService;
+import com.example.herokutest2.services.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

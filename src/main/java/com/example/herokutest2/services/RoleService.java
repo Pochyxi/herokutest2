@@ -1,9 +1,10 @@
-package com.example.testheroku.services;
+package com.example.herokutest2.services;
 
 
-import com.example.testheroku.entities.Role;
-import com.example.testheroku.entities.RoleType;
-import com.example.testheroku.repositories.RoleRepository;
+
+import com.example.herokutest2.entities.Role;
+import com.example.herokutest2.entities.RoleType;
+import com.example.herokutest2.repositories.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

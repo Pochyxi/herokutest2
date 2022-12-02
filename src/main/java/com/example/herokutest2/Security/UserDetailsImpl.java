@@ -1,6 +1,7 @@
-package com.example.testheroku.Security;
+package com.example.herokutest2.Security;
 
-import com.example.testheroku.entities.User;
+
+import com.example.herokutest2.entities.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
